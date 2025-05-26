@@ -2,6 +2,6 @@
 
 
 ## Installed packages
-- [rofi-wayland](https://github.com/lbonn/rofi)
-- [peacklock](https://github.com/octobanana/peaclock)
-- [cava](https://github.com/karlstav/cava)
+- [rofi-wayland](https://github.com/lbonn/rofi) - launcher 
+- [peacklock](https://github.com/octobanana/peaclock) - teminal digital clock
+- [cava](https://github.com/karlstav/cava) - terminal music visualizer
